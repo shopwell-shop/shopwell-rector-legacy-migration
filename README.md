@@ -1,16 +1,16 @@
-# Rector for Shopware
+# Rector for Shopwell
 
-This project extends Rector with multiple Rules for Shopware specific. 
+This project extends Rector with multiple rules for Shopwell.
 
-See available [Shopware rules](/docs/rector_rules_overview.md)
+See available [Shopwell rules](/docs/rector_rules_overview.md)
 
 
 ## Install
 
-Make sure to install both `frosh/shopware-rector` as well as `rector/rector`.
+Make sure to install both `frosh/shopwell-rector` as well as `rector/rector`.
 
 ```bash
-composer req frosh/shopware-rector --dev
+composer req frosh/shopwell-rector --dev
 ```
 
 ## Use Sets
